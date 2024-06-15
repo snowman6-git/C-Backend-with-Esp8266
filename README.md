@@ -12,3 +12,12 @@ esp8266 모습<br>
 
 실제 접속 모습<br>
 ![image](https://github.com/snowman6-git/C-Backend-with-Esp8266/assets/71697301/eacf61b7-a65e-40cc-9a2a-3e77b527693a)
+
++SD카드
+====================
+E86h 프로토 타입 (앞)
+![IMG_5022](https://github.com/snowman6-git/E86hBackend/assets/71697301/f6dc7c2d-f13f-473b-a064-d3d54184c647)
+<br>
+E86h 프로토 타입 (뒤)
+![IMG_5024](https://github.com/snowman6-git/E86hBackend/assets/71697301/389c6028-1909-484e-a778-3416baab053c)
+<br>
